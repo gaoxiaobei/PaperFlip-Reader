@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Qt](https://img.shields.io/badge/Qt-5.15%2B-blue.svg)](https://www.qt.io)
-[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)](https://github.com/yourusername/PaperFlip-Reader)
+[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)](https://github.com/gaoxiaobei/PaperFlip-Reader)
 
 **PaperFlip Reader** is a revolutionary PC-based open-source e-book reader that recreates the immersive experience of flipping through a physical book. Unlike traditional e-readers that focus on static page-turning, PaperFlip emphasizes **fluid, large-span browsing** - the ability to quickly skim through hundreds of pages while maintaining contextual awareness, just like flipping through a physical book to find content based on fuzzy memory.
 
@@ -46,7 +46,7 @@ The project addresses a fundamental gap in digital reading: **the loss of spatia
 #### Option 1: CMake (Cross-platform)
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/PaperFlip-Reader.git
+git clone https://github.com/gaoxiaobei/PaperFlip-Reader.git
 cd PaperFlip-Reader
 
 # Create build directory
@@ -192,8 +192,8 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 ## 🐛 Bug Reports and Feature Requests
 
 Please use GitHub Issues to report bugs or request features:
-- [Bug Report Template](https://github.com/yourusername/PaperFlip-Reader/issues/new?template=bug_report.md)
-- [Feature Request Template](https://github.com/yourusername/PaperFlip-Reader/issues/new?template=feature_request.md)
+- [Bug Report Template](https://github.com/gaoxiaobei/PaperFlip-Reader/issues/new?template=bug_report.md)
+- [Feature Request Template](https://github.com/gaoxiaobei/PaperFlip-Reader/issues/new?template=feature_request.md)
 
 ## 📄 License
 
@@ -207,8 +207,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📱 Download
 
-- **[Latest Release](https://github.com/yourusername/PaperFlip-Reader/releases/latest)**
-- **[Development Builds](https://github.com/yourusername/PaperFlip-Reader/actions)**
+- **[Latest Release](https://github.com/gaoxiaobei/PaperFlip-Reader/releases/latest)**
+- **[Development Builds](https://github.com/gaoxiaobei/PaperFlip-Reader/actions)**
 
 ---
 
