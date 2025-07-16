@@ -1,0 +1,11 @@
+Building PaperFlip MVP...
+CMake Warning:
+  Ignoring extra path from command line:
+
+   ".."
+
+
+CMake Error: The source directory "D:/MySource/Projects/PaperFlip-Reader" does not appear to contain CMakeLists.txt.
+Specify --help for usage, or press the help button on the CMake GUI.
+CMake configuration failed
+请按任意键继续. . . 
