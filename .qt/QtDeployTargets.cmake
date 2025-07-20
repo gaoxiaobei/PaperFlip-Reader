@@ -1,0 +1,8 @@
+set(__QT_DEPLOY_TARGET_QuaZip_FILE D:/MySource/Projects/PaperFlip-Reader/external/quazip/quazip/libquazip1-qt6.dll)
+set(__QT_DEPLOY_TARGET_QuaZip_TYPE SHARED_LIBRARY)
+set(__QT_DEPLOY_TARGET_QuaZip_RUNTIME_DLLS D:/Qt/6.9.1/mingw_64/bin/Qt6Core5Compat.dll;D:/Qt/6.9.1/mingw_64/bin/Qt6Core.dll)
+set(__QT_DEPLOY_TARGET_bzip2_FILE D:/MySource/Projects/PaperFlip-Reader/external/quazip/libbzip2.a)
+set(__QT_DEPLOY_TARGET_bzip2_TYPE STATIC_LIBRARY)
+set(__QT_DEPLOY_TARGET_PaperFlip-Reader_FILE D:/MySource/Projects/PaperFlip-Reader/bin/PaperFlip-Reader.exe)
+set(__QT_DEPLOY_TARGET_PaperFlip-Reader_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_PaperFlip-Reader_RUNTIME_DLLS D:/Qt/6.9.1/mingw_64/bin/Qt6Widgets.dll;D:/MySource/Projects/PaperFlip-Reader/external/quazip/quazip/libquazip1-qt6.dll;D:/Qt/6.9.1/mingw_64/bin/Qt6Gui.dll;D:/Qt/6.9.1/mingw_64/bin/Qt6Core5Compat.dll;D:/Qt/6.9.1/mingw_64/bin/Qt6Core.dll)

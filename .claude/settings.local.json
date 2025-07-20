@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p D:MySourceProjectsPaperFlip-ReaderPaperFlip-MVPViews)",
+      "Bash(D:/MySource/Projects/PaperFlip-Reader/PaperFlip-MVP/build.bat)",
+      "Bash(bash -c 'D:/MySource/Projects/PaperFlip-Reader/PaperFlip-MVP/build.bat 2>&1 | tee build_output.log')",
+      "Bash(cmd.exe /c \"D:/MySource/Projects/PaperFlip-Reader/PaperFlip-MVP/build_qmake.bat\")"
+    ],
+    "deny": []
+  }
+}

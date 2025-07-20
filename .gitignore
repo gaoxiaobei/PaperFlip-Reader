@@ -1,0 +1,184 @@
+# Qt/C++ Project .gitignore
+# Comprehensive ignore patterns for PaperFlip-Reader
+
+# Build artifacts
+build*/
+debug/
+release/
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.so.*
+*.dylib
+*.dll
+*.exe
+*.pdb
+*.ilk
+*.exp
+*.res
+*.idb
+*.pch
+*.sbr
+*.bsc
+*.ncb
+*.sdf
+*.opensdf
+*.opendb
+*.cache
+*.tmp
+*.temp
+*.log
+
+# Qt specific
+moc_*.cpp
+moc_*.h
+qrc_*.cpp
+ui_*.h
+*.pro.user
+*.pro.user.*
+*.qbs.user
+*.qbs.user.*
+*.moc
+*.qmlc
+*.jsc
+Makefile*
+*.prl
+*.app
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps/
+build/
+out/
+install/
+
+# IDE specific
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Qt Creator
+*.autosave
+*.creator
+*.creator.user
+*.files
+*.includes
+*.config
+*.cxxflags
+*.cflags
+*.hflags
+*.lflags
+
+# Visual Studio
+.vs/
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+# Xcode
+*.xcodeproj/
+*.xcworkspace/
+*.xcuserdata/
+*.xcscheme
+
+# Platform specific
+# Windows
+*.bat
+*.cmd
+desktop.ini
+ehthumbs.db
+Thumbs.db
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Linux
+*~
+.nfs*
+.fuse_hidden*
+.directory
+.Trash-*
+
+# Package managers
+conanbuildinfo.*
+conaninfo.txt
+conan.lock
+graph_info.json
+.deps/
+vcpkg_installed/
+
+# Documentation build
+docs/build/
+docs/_build/
+docs/.doxygen/
+
+# Testing
+*.gcov
+*.gcno
+*.gcda
+coverage/
+lcov.info
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+*.orig
+*.rej
+*.sage.py
+
+# Logs
+*.log
+logs/
+log/
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.rar
+*.7z
+
+# Keep these files
+!.gitignore
+!*.pro
+!*.pri
+!*.cmake
+!CMakeLists.txt
+!README.md
+!LICENSE
